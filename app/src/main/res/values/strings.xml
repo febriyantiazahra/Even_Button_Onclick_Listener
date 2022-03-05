@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Sample Constraint Layout</string>
-    <string name="tEmail">Email</string>
-    <string name="tPassword">Password</string>
-    <string name="bsignin">Sign-In</string>
+    <string name="app_name">Pertemuan Kedua Event</string>
+    <string name="eLogin">Login</string>
+    <string name="eEmail">Masukkan Email</string>
+    <string name="ePassword">Masukkan Password</string>
+    <string name="bSignIn">Sign In</string>
 </resources>
